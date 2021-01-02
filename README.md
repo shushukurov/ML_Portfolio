@@ -61,6 +61,21 @@ Kaiming Initialization, or He Initialization, is an initialization method for ne
 
 ## 5. Image Captioning (RNN, LSTM, Attention)
 
+## Recurrent Neural Network
+Recurrent Neural Network (RNN) language models for image captioning.
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/RNN.png" width=691 height=404>
+
+## Long-Short-Term-Memory
+I see that many people use a variant on the vanilla RNN called Long-Short Term Memory (LSTM) RNNs because Vanilla RNNs can be tough to train on long sequences due to vanishing and exploding gradients caused by repeated matrix multiplication. LSTMs solve this problem by replacing the simple update rule of the vanilla RNN with a gating mechanism as follows.
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/LSTM.png" width=691 height=404>
+
+## Attention
+Attention LSTM essentially adds an attention input $x_{attn}^t\in\mathbb{R}^H$ into LSTM, along with $x_t\in\mathbb{R}^D$ and the previous hidden state $h_{t-1}\in\mathbb{R}^H$.
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/Attention.png" width=691 height=404>
+
 ## 6. Neural Networks Visualization
 
 ## Saliency Maps
