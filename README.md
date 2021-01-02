@@ -9,7 +9,17 @@ So I have started with KNN
 
 ![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/KNN_for_ImageClassification/KNN.png)
 
-## 2. Linear Classifiers (Support Vector Machine, Softmax)
+## 2. Linear Classifiers for image classification
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/svmvssoftmax.png" width=691 height=404>
+
+## Support Vector Machine
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/SVM.png" width=691 height=404>
+
+## Softmax
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.JPG" width=691 height=404>
 
 ## 3. DeepLearning
 
