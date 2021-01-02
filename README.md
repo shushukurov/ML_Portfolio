@@ -7,19 +7,19 @@ image classification algorithm that was popular before Deep Learning came out.
 So I structured my PyTorch porfolio projects according to timeline of algorithms were developed (Popular)
 So I have started with KNN
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/KNN_for_ImageClassification/KNN.png)
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/KNN_for_ImageClassification/KNN.png" width=200 height=200>
 
 ## 2. Linear Classifiers for image classification
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/svmvssoftmax.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/svmvssoftmax.png" width=200 height=200>
 
 ## Support Vector Machine
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/SVMp.png" width=600 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/SVMp.png" width=200 height=200>
 
 ## Softmax
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.jpg" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.jpg" width=200 height=200>
 
 ## 3. DeepLearning
 
@@ -28,13 +28,12 @@ This Project consists of Modular implementation of Fully-Connected Neural Networ
 ## Modular implementation of Fully-Connected Neural Networks
 Andrej Karphathy once wrote that ML engineers should have deep understanding of backpropagation. Therefore I implemented all necessary modules for Neural Networks from scratch using PyTorch GPU acceleration in order Improve knowledge of NN and Backprop.
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png)
-
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png" width=200 height=200>
 ## Dropout
 
 Dropout is a technique for regularizing neural networks by randomly setting some output activations to zero during the forward pass.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=200 height=200>
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
@@ -46,8 +45,7 @@ So far I have used vanilla stochastic gradient descent (SGD) as my update rule. 
 
 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/CIFAR10_CNN.gif)
-
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/CIFAR10_CNN.gif" width=200 height=200>
 ## Batch Norm
 Batch normalization (also known as batch norm) is a method used to make artificial neural networks faster and more stable through normalization of the input layer by re-centering and re-scaling. It was proposed by Sergey Ioffe and Christian Szegedy in 2015.
 
