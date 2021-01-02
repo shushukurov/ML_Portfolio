@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of projects
+List of My projects
 
 ## 1. KNN for Image Classification
 KNN classifier for CIFAR-10 from scratch with PyTorch. KNN is data driven,
