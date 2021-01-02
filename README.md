@@ -22,7 +22,7 @@ Andrej Karphathy once wrote that ML engineers should have deep understanding of 
 
 ## Dropout
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png)
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=691 height=202>
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
