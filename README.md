@@ -13,6 +13,14 @@ So I have started with KNN
 
 ## 3. DeepLearning
 
+This Project consists of Modular implementation of Fully-Connected Neural Networks, Dropout and different optimizers (SGD, Momentum, Rmsprop, Adam)
+
+## Modular implementation of Fully-Connected Neural Networks
+Andrej Karphathy once wrote that ML engineers should have deep understanding of backpropagation. Therefore I implemented all necessary modules for Neural Networks from scratch using PyTorch GPU acceleration in order Improve knowledge of NN and Backprop.
+
+## Dropout
+
+## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
 ## 4. Convolutional Neural Network, Batch Normalization and Kaiming initialization
 
