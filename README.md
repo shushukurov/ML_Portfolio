@@ -22,11 +22,11 @@ Andrej Karphathy once wrote that ML engineers should have deep understanding of 
 
 ## Dropout
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/dropout.png)
+![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png)
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/optimizers.png)
+![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Optimizers.png)
 
 ## 4. Convolutional Neural Network, Batch Normalization and Kaiming initialization
 
