@@ -72,7 +72,8 @@ I see that many people use a variant on the vanilla RNN called Long-Short Term M
 <img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/LSTM.png" width=691 height=404>
 
 ## Attention
-Attention LSTM essentially adds an attention input $x_{attn}^t\in\mathbb{R}^H$ into LSTM, along with $x_t\in\mathbb{R}^D$ and the previous hidden state $h_{t-1}\in\mathbb{R}^H$.
+Attention is the idea of freeing the encoder-decoder architecture from the fixed-length internal representation.
+This is achieved by keeping the intermediate outputs from the encoder LSTM from each step of the input sequence and training the model to learn to pay selective attention to these inputs and relate them to items in the output sequence.
 
 <img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/Attention.png" width=691 height=404>
 
