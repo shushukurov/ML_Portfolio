@@ -19,7 +19,7 @@ So I have started with KNN
 
 ## Softmax
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.JPG" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.jpg" width=691 height=404>
 
 ## 3. DeepLearning
 
