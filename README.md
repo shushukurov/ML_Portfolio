@@ -28,12 +28,12 @@ This Project consists of Modular implementation of Fully-Connected Neural Networ
 ## Modular implementation of Fully-Connected Neural Networks
 Andrej Karphathy once wrote that ML engineers should have deep understanding of backpropagation. Therefore I implemented all necessary modules for Neural Networks from scratch using PyTorch GPU acceleration in order Improve knowledge of NN and Backprop.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png" width=400 height=400>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png" width=600 height=400>
 ## Dropout
 
 Dropout is a technique for regularizing neural networks by randomly setting some output activations to zero during the forward pass.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=400 height=400>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=600 height=400>
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
@@ -62,12 +62,12 @@ Kaiming Initialization, or He Initialization, is an initialization method for ne
 ## Recurrent Neural Network
 Recurrent Neural Network (RNN) language models for image captioning.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/RNN.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/RNN.png" width=404 height=404>
 
 ## Long-Short-Term-Memory
 I see that many people use a variant on the vanilla RNN called Long-Short Term Memory (LSTM) RNNs because Vanilla RNNs can be tough to train on long sequences due to vanishing and exploding gradients caused by repeated matrix multiplication. LSTMs solve this problem by replacing the simple update rule of the vanilla RNN with a gating mechanism as follows.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/LSTM.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/ImageCaptioning/LSTM.png" width=404 height=404>
 
 ## Attention
 Attention is the idea of freeing the encoder-decoder architecture from the fixed-length internal representation.
@@ -87,13 +87,13 @@ A saliency map tells the degree to which each pixel in the image affects the cla
 
 Use of image gradients to generate "adversarial attacks". Given an image and a target class, It is possible to perform gradient ascent over the image to maximize the target class, stopping when the network classifies the image as the target class.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/NetworkVisualization/AdversarialAttack.jpeg" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/NetworkVisualization/AdversarialAttack.jpeg" width=500 height=404>
 
 ## Class visualization
 
 By starting with a random noise image and performing gradient ascent on a target class, It is possible to generate an image that the network will recognize as the target class.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/NetworkVisualization/Class_Visual.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/NetworkVisualization/Class_Visual.png" width=404 height=404>
 
 ## 7. Style Transfer
 
