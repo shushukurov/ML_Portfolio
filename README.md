@@ -23,12 +23,10 @@ In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of
 ## Batch Norm
 Batch normalization (also known as batch norm) is a method used to make artificial neural networks faster and more stable through normalization of the input layer by re-centering and re-scaling. It was proposed by Sergey Ioffe and Christian Szegedy in 2015.
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/BN.png)
 <img src="https://web.eecs.umich.edu/~justincj/teaching/eecs498/assets/a3/batchnorm_graph.png" width=691 height=202>
 ## Kaiming Initialization
 Kaiming Initialization, or He Initialization, is an initialization method for neural networks that takes into account the non-linearity of activation functions, such as ReLU activations.
 
-![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/KaimRelyXavier.png)
 
 
 ## 5. Image Captioning (RNN, LSTM, Attention)
