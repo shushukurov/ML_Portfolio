@@ -18,15 +18,15 @@ This Project consists of Modular implementation of Fully-Connected Neural Networ
 ## Modular implementation of Fully-Connected Neural Networks
 Andrej Karphathy once wrote that ML engineers should have deep understanding of backpropagation. Therefore I implemented all necessary modules for Neural Networks from scratch using PyTorch GPU acceleration in order Improve knowledge of NN and Backprop.
 
-https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png
+![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png)
 
 ## Dropout
 
-https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/dropout.png
+![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/dropout.png)
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
-https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/optimizers.png
+![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/optimizers.png)
 
 ## 4. Convolutional Neural Network, Batch Normalization and Kaiming initialization
 
