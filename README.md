@@ -11,7 +11,7 @@ So I have started with KNN
 
 ## 2. Linear Classifiers for image classification
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/svmvssoftmax.png" width=400 height=400>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/svmvssoftmax.png" width=600 height=400>
 
 ## Support Vector Machine
 
@@ -19,7 +19,7 @@ So I have started with KNN
 
 ## Softmax
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.jpg" width=400 height=400>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/Softmax.jpg" width=600 height=400>
 
 ## 3. DeepLearning
 
@@ -28,12 +28,12 @@ This Project consists of Modular implementation of Fully-Connected Neural Networ
 ## Modular implementation of Fully-Connected Neural Networks
 Andrej Karphathy once wrote that ML engineers should have deep understanding of backpropagation. Therefore I implemented all necessary modules for Neural Networks from scratch using PyTorch GPU acceleration in order Improve knowledge of NN and Backprop.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png" width=200 height=200>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Backprop.png" width=400 height=400>
 ## Dropout
 
 Dropout is a technique for regularizing neural networks by randomly setting some output activations to zero during the forward pass.
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=200 height=200>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=400 height=400>
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
 
@@ -45,7 +45,7 @@ So far I have used vanilla stochastic gradient descent (SGD) as my update rule. 
 
 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/CIFAR10_CNN.gif" width=400 height=400>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/CNN_BatchNorm_Kaiming/CIFAR10_CNN.gif" width=700 height=400>
 ## Batch Norm
 Batch normalization (also known as batch norm) is a method used to make artificial neural networks faster and more stable through normalization of the input layer by re-centering and re-scaling. It was proposed by Sergey Ioffe and Christian Szegedy in 2015.
 
