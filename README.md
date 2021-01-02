@@ -37,6 +37,11 @@ Kaiming Initialization, or He Initialization, is an initialization method for ne
 
 ## 7. Style Transfer
 
+Neural Style Transfer (NST) refers to a class of software algorithms that manipulate digital images, or videos, in order to adopt the appearance or visual style of another image. NST algorithms are characterized by their use of deep neural networks for the sake of image transformation.
+
+![caption](http://web.eecs.umich.edu/~justincj/teaching/eecs498/example_styletransfer.png)
+
+
 ## 8. Single-Stage Object Detector (YOLO 2)
 
 In project I implemented a single-stage object detector, 
