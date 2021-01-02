@@ -22,9 +22,13 @@ Andrej Karphathy once wrote that ML engineers should have deep understanding of 
 
 ## Dropout
 
+Dropout is a technique for regularizing neural networks by randomly setting some output activations to zero during the forward pass.
+
 <img src="https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Dropout.png" width=691 height=202>
 
 ## Optimizers (SGD, Momentum, Rmsprop, Adam)
+
+So far I have used vanilla stochastic gradient descent (SGD) as my update rule. More sophisticated update rules can make it easier to train deep networks. Therefore I have implement a few of the most commonly used update rules (SGD, Momentum, RMsprop, Adam) and compare them to vanilla SGD.
 
 ![Alt Text](https://github.com/shushukurov/ML_Portfolio/blob/main/DeepLearningModule/Optimizers.png)
 
