@@ -6,4 +6,5 @@ I also evaluated the detection accuracy using the classic metric mean Average Pr
 In Next project (That extends this project), I will implement a two-stage object detector, based on Faster R-CNN. 
 The main difference between the two is that single-stage detectors perform region proposal and 
 classification simultaneously while two-stage detectors have them decoupled.
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F49707542%2Fyolo-v1-bounding-boxes-during-training-step&psig=AOvVaw3kA2ohaOXpq3Bxdunoi-Ze&ust=1609705125214000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICu_4aJ_u0CFQAAAAAdAAAAABAe)
+
+![alt text](https://github.com/shushukurov/ML_Portfolio/blob/main/SingleStageDetector_YOLO/OPGDq.jpg)
