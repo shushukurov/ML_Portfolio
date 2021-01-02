@@ -15,7 +15,7 @@ So I have started with KNN
 
 ## Support Vector Machine
 
-<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/SVM.png" width=691 height=404>
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/LinearClassifiers_SVM_Softmax/SVM.png" width=600 height=404>
 
 ## Softmax
 
