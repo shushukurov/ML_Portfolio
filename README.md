@@ -126,6 +126,10 @@ classification simultaneously while two-stage detectors have them decoupled.
 ![alt text](https://github.com/shushukurov/ML_Portfolio/blob/main/SingleStageDetector_YOLO/OPGDq.jpg)
 
 ## 9. Double-Stage Object Detector (Faster R-CNN)
-(Soon)
+
+<img src="https://github.com/shushukurov/ML_Portfolio/blob/main/FasterRCNN/FasterRCNN.png" width=600 height=400>
+
+
+
 ## 10. Generative Adversarial Network
 (Soon)
