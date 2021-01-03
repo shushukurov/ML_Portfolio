@@ -1,6 +1,7 @@
 # Portfolio
 List of My projects
-
+Inspired by Andrej Karpathy, Justin Johnson, Cs231n, Elon Musk's tweet about PyTorch :)
+Most projects are implented on low level using Pytorch tensors only as a gpu accelerating data type, only few of them (most complicated ones) utilize some pytorch high level api functions 
 ## 1. KNN for Image Classification
 KNN classifier for CIFAR-10 from scratch with PyTorch. KNN is data driven,
 image classification algorithm that was popular before Deep Learning came out. 
