@@ -1,4 +1,4 @@
-Single-Stage Object Detector
+## Single-Stage Object Detector (YOLO 2)
 
 In project I implemented a single-stage object detector, 
 based on YOLO (v1 and v2) and used it to train a model that can detect objects on novel images. 
