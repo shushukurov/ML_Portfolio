@@ -1,4 +1,4 @@
-## 3. DeepLearning
+##  DeepLearning
 
 This Project consists of Modular implementation of Fully-Connected Neural Networks, Dropout and different optimizers (SGD, Momentum, Rmsprop, Adam)
 
